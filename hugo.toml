@@ -12,18 +12,22 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "Confident Scientist"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.fr]
-    title = "Ananke Fr"
+    title = "Scientifique confiant"
     weight = 2
     contentDir = "content/fr"
   [languages.no]
-    title = "Ananke No"
+    title = "Selvsikker vitenskapsmann"
     weight = 2
     contentDir = "content/no"
+  [languages.es]
+    title = "Científico confiado"
+    weight = 2
+    contentDir = "content/es"
 
 [sitemap]
   changefreq = "monthly"
